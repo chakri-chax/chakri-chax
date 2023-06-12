@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/chax_chakri" target="blank"><img src="https://img.shields.io/twitter/follow/chax_chakri?logo=twitter&style=for-the-badge" alt="chax_chakri" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
 
-- 🔭 I’m currently working on [Blockchain](https://github.com/chakri-chax/FundZone)
+- 🔭 I’m currently working on [FundZone Blockchain Project](https://github.com/chakri-chax/FundZone)
 
 - 🌱 I’m currently learning **Ethereum, Sui Blockchains**
 
