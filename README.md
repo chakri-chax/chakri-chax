@@ -2,7 +2,7 @@
    
 <p align="center">
   <a href="https://github.com/chakri-chax">
-    <img src="https://steemitimages.com/p/7258xSVeJbKkzXhyseBP4PYz11eBDT8sW2oR1a4vfVFS6Hg7X68JcDfGjMF2uz6gUWLbTQ8CDMKspMeyoSZDwqhrmty8Ss4XH18tFvH4BZHZSLz1sVvnq5TcvmReqokWZ3dTaZ1tfMbrd?format=match&mode=fit" alt="MasterHead" height = "400" width="1000">
+    <img src="https://steemitimages.com/p/7258xSVeJbKkzXhyseBP4PYz11eBDT8sW2oR1a4vfVFS6Hg7X68JcDfGjMF2uz6gUWLbTQ8CDMKspMeyoSZDwqhrmty8Ss4XH18tFvH4BZHZSLz1sVvnq5TcvmReqokWZ3dTaZ1tfMbrd?format=match&mode=fit" alt="MasterHead" >
   </a>
 </p>
 
