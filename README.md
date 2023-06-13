@@ -39,4 +39,4 @@
 
 <p>&nbsp;&nbsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri-chax&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
 
-<p>&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri-chax&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
+<p>&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri-chax&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
