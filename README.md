@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on [FundZone Blockchain Project](https://github.com/chakri-chax/FundZone)
 
-- 🌱 I’m currently learning **Ethereum, Sui Blockchains**
-
 - 👨‍💻 All of my projects are available at [https://cosmoclaw.com](https://chakrichax.netlify.app)
 
 - 💬 Ask me about **Solidity, ReactJs, Hardhat**
