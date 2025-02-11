@@ -23,14 +23,6 @@
 - ⚡ Fun fact **When things go wrong, laugh**
 
 
-                   _                      _             _ 
-            ____  | |                    | |           (_)
-           / ___| | |__     __ _    ___  | | __  _  _   _ 
-          | |     | '_ \   / _` |  / __| | |/ / | |/ / | |
-          | |___  | | | | | (_| | | (__  |   <  |  /   | |
-           \____| |_| |_|  \__,_|  \___| |_|\_\ |_|    |_| 
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,3 +40,10 @@
 <p>&nbsp;&nbsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri-chax&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
 
 <p>&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri-chax&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
+                   _                      _             _ 
+            ____  | |                    | |           (_)
+           / ___| | |__     __ _    ___  | | __  _  _   _ 
+          | |     | '_ \   / _` |  / __| | |/ / | |/ / | |
+          | |___  | | | | | (_| | | (__  |   <  |  /   | |
+           \____| |_| |_|  \__,_|  \___| |_|\_\ |_|    |_| 
+
