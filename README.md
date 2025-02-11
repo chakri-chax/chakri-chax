@@ -22,6 +22,16 @@
 
 - ⚡ Fun fact **When things go wrong, laugh**
 
+
+                   _                      _             _ 
+            ____  | |                    | |           (_)
+           / ___| | |__     __ _    ___  | | __  _  _   _ 
+          | |     | '_ \   / _` |  / __| | |/ / | |/ / | |
+          | |___  | | | | | (_| | | (__  |   <  |  /   | |
+           \____| |_| |_|  \__,_|  \___| |_|\_\ |_|    |_| 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chax_chakri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chax_chakri" height="30" width="40" /></a>
