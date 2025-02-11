@@ -30,6 +30,13 @@
 <a href="https://linkedin.com/in/d.l. chakravarthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d.l. chakravarthi" height="30" width="40" /></a>
 <a href="https://fb.com/chakri_chax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakri_chax" height="30" width="40" /></a>
 <a href="https://instagram.com/chakri_chax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chakri_chax" height="30" width="40" /></a>
+
+                   _                      _             _ 
+            ____  | |                    | |           (_)
+           / ___| | |__     __ _    ___  | | __  _  _   _ 
+          | |     | '_ \   / _` |  / __| | |/ / | |/ / | |
+          | |___  | | | | | (_| | | (__  |   <  |  /   | |
+           \____| |_| |_|  \__,_|  \___| |_|\_\ |_|    |_| 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,10 +47,5 @@
 <p>&nbsp;&nbsp;&emsp;&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri-chax&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
 
 <p>&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakri-chax&layout=compact&theme=tokyonight" alt="chakri-chax" /></p>
-                   _                      _             _ 
-            ____  | |                    | |           (_)
-           / ___| | |__     __ _    ___  | | __  _  _   _ 
-          | |     | '_ \   / _` |  / __| | |/ / | |/ / | |
-          | |___  | | | | | (_| | | (__  |   <  |  /   | |
-           \____| |_| |_|  \__,_|  \___| |_|\_\ |_|    |_| 
+      
 
